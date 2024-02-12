@@ -1,6 +1,9 @@
-a = 199
+"""6. Use Comparison operator to find out whether the a given
+Variable is greater than b or not .take a = 35 ,b=89."""
+
+a = 35
 b = 89
 if(a>b):
-    print("A is greater then B",a)
+    print( a,"is greater then",b)
 else:
-    print("B is greater than A",b)
+    print(b,"is greater than",a)
