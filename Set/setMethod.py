@@ -5,7 +5,7 @@ marks.add(1) #add element
 marks.add(2)
 marks.add(3)
 marks.add(4)
-
+print(marks)
 marks.remove(4)#remove element
 
 marks.clear()#empty elment

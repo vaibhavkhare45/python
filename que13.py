@@ -1,5 +1,2 @@
-veg = []
-for i in range(0,7):
-    user = input("Enter vegetables :")
-    veg.append(user)
-print(veg)
+a = (7,0,9,7,0,9,1,1,0,9,0)
+print(a.count(0))

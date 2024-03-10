@@ -10,6 +10,6 @@ print(student)
 student[0] =  "ayush"
 print(student)  #Lists are mutable they can change
 
-str ="hello"
-print(str[0])
-str[0]= "y"  #string are inmutable cant chanegable
+# str ="hello"
+# print(str[0])
+# str[0]= "y"  #string are inmutable cant chanegable

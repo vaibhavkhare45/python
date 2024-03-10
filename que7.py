@@ -1,4 +1,4 @@
-"""7.Write a program to find average of numbers entered by the user."""
+"""7.Write a program to find average of numbers entered by the user in python."""
 num = []
 num1 = int(input("Enter Number :"))
 num2 = int(input("Enter Number :"))

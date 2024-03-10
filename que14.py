@@ -1,2 +1,13 @@
-a = (7,0,9,7,0,9,1,1,0,9,0)
-print(a.count(0))
+english_to_hindi = {
+    "apple": "सेब",
+    "banana": "केला",
+    "cat": "बिल्ली",
+    "dog": "कुत्ता",
+}
+def lookup(word):
+    if word in english_to_hindi:
+        return english_to_hindi[word]
+    else:
+        return "Translation not found"
+
+print(lookup("cat"))
